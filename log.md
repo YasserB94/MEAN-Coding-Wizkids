@@ -18,6 +18,3 @@ npx tailwindcss init
 @tailwind components;
 @tailwind utilities;
 
-
-
-!!!$ cp ./server/bin/www ./dist/api/bin

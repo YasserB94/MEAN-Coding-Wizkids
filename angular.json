@@ -28,6 +28,7 @@
               "client/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "client/src/styles.scss"
             ],
             "scripts": []
@@ -96,6 +97,7 @@
               "client/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "client/src/styles.scss"
             ],
             "scripts": []
